@@ -97,6 +97,9 @@ To run my app on your local machine, do the following steps.
    http://127.0.0.1:5000/
    ```
 
+## About Dataset
+For this project I have download dataset form [Kaggel](https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset) . In this dataset there are three folders like train , test and validation folder . In this dataset there are 4 category like diseased cotton leaf , diseased cotton plant , fresh cotton leaf , fresh cotton plant.
+
 ## Deployment on Heroku
 - After successfully running my app on your local machine, you can also deploy my app on heroku by following the steps given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python). You have to do it on your own risk.
 - In case, if you have any issues on deploying the app, please open a new issue by clicking [here](https://github.com/Nivitus/Machine-Learning-Projects/issues/new/choose). Because it may help others while deploying.
@@ -120,6 +123,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ## Technologies Used
 
 ![](Images/tech.JPG)  
+![](Images/tensorflowkeras.png)  
 
 
 
