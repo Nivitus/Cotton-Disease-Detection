@@ -1,24 +1,26 @@
 # Cotton-Disease-Detection
 
+![Cotton](Images/cotton.jpg)  
+
 ## Table of Content ##
 - [Demo](#demo)
 - [Overview](#overview)
 - [Motivation](#motivation)
-- [Projects Done](#projects-done)
-- [Upcoming Projects](#upcoming-projects)
 - [Technical Aspects](#technical-aspects)
 - [Installation](#installation)
 - [Run](#run)
 - [Deployment on Heroku](#deployment-on-heroku)
-- [Directory Tree](#directory-tree)
 - [To Do](#to-do)
 - [Bug / Feature Request](#bug--feature-request)
 - [Technologies Used](#technologies-used)
 - [Team](#team)
 - [License](#license)
 - [Credits](#credits)
+
 ## Demo
-- App Link : <a href="https://nivitus.herokuapp.com/" target="_blank">Machine Learning Projects</a>
+
+![Cotton](Images/cot.gif)  
+
 
 [![Alt Text](Images/1.PNG)](https://nivitus.herokuapp.com/)
 [![Alt Text](Images/2.PNG)](https://nivitus.herokuapp.com/)
